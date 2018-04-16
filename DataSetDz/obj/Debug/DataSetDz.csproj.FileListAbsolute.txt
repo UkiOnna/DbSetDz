@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\DataSetDz\DataSetDz\bin\Debug\DataSetDz.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\DataSetDz\DataSetDz\bin\Debug\DataSetDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\DataSetDz\DataSetDz\bin\Debug\DataSetDz.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\DataSetDz\DataSetDz\obj\Debug\DataSetDz.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\DataSetDz\DataSetDz\obj\Debug\DataSetDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\DataSetDz\DataSetDz\obj\Debug\DataSetDz.pdb
